@@ -1,4 +1,4 @@
-#Hospitalmanagement
+Hospitalmanagement
 ## Purpose
 - The HMS is designed to efficiently manage hospital operations, including handling patient and doctor data and scheduling appointments.
 
